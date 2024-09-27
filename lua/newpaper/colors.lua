@@ -23,11 +23,11 @@ function M.setup(config)
             lightblue            = "#0072C1", -- color12
             lightmagenta         = "#E563BA", -- color13
             blue                 = "#0087AF", -- color14
-            white                = "#F1F3F2",
+            white                = "#F2EEDE",
 
             -- Default fg and bg
             fg                   = "#2B2B2B", -- color15
-            bg                   = "#F1F3F2", -- color07
+            bg                   = "#F2EEDE", -- color07
 
             -- Other colors
             dark_maroon          = "#8C1919",
@@ -54,7 +54,7 @@ function M.setup(config)
             grey                 = "#585858",
             lightgrey            = "#878787",
             lightlightgrey       = "#D4D4D4",
-            silver               = "#E4E4E4",
+            silver               = "#e1ddce",
             lightsilver          = "#EEEEEE",
 
             codeblock            = "#DEDEDE",
