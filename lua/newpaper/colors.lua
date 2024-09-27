@@ -407,7 +407,7 @@ function M.setup(config)
 
     -- Editor
     newpaper.accent              = newpaper.blue
-    newpaper.active              = newpaper.silver
+    newpaper.active              = newpaper.lightsilver
     newpaper.borders             = newpaper.purple
     newpaper.colorcol            = newpaper.silver
     newpaper.contrast            = newpaper.lightlightgrey
