@@ -55,7 +55,7 @@ function M.setup(config)
             lightgrey            = "#878787",
             lightlightgrey       = "#D4D4D4",
             silver               = "#e1ddce",
-            lightsilver          = "#EEEEEE",
+            lightsilver          = "#f7f3e3",
 
             codeblock            = "#DEDEDE",
             disabled             = "#C3C3C3",

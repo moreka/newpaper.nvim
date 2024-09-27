@@ -75,7 +75,7 @@ function M.setup(configColors, configStyle)
             CursorColumn     = { bg = newpaper.active },
             CursorLine       = { bg = newpaper.active },
             CursorIM         = { fg = newpaper.bg, bg = newpaper.cursor },
-            CursorLineNr     = { fg = newpaper.cursor_nr_fg, bg = newpaper.cursor_nr_bg },
+            CursorLineNr     = { fg = newpaper.cursor_nr_fg, bg = newpaper.cursor_nr_bg, bold = true },
             CursorLineFold   = { fg = newpaper.folded_fg, bg = newpaper.cursor_nr_bg },
             CursorLineSign   = { bg = newpaper.linenumber_bg },
             ColorColumn      = { fg = newpaper.none, bg = newpaper.colorcol },
